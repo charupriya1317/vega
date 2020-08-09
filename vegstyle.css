@@ -1,0 +1,154 @@
+body{
+	background-color: #f7d6bf;
+	font-family: "Times New Roman", Times, serif;
+	text-align: center;
+	margin:auto;
+	width: 100%;
+	line-height: 2;
+	color: #e84a5f;
+	padding-bottom: 5rem;
+}
+
+h1{
+	font-size: 3rem;
+	font-style: italic;
+}
+
+h2{
+	font-weight: bold;
+	font-size: 2rem;
+	margin-bottom: 0;
+}
+
+.vegimg{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+.vegimg1{
+	width: 8rem;
+	height: 8rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+p{
+	font-size: 1.5rem;
+	padding: 1.5rem;
+	font-style: italic;
+	margin: auto;
+	width: 30%;
+}
+
+a{
+	font-size: 1.5rem;
+	color:#e84a5f;
+	padding: 1rem;
+	font-style: italic;
+}
+
+a:hover{
+	color: red;
+}
+
+hr{
+	width: 7%;
+	color: #ffeadb;
+	border: 0.25rem;
+	border-style: dotted;
+	border-bottom: none;
+	border-left: none;
+	border-right: none;
+}
+
+.onion{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+.cauli {
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+.tomato{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+.mush{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+.spi{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+.carrot{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+.corn{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+.celery{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+		}
+
+.potato{
+	width: 15rem;
+	height: 15rem;
+	border-radius: 100%;
+	padding: 1rem;
+}
+
+.tuber, .stem, .seed, .root, .leaf, .fung, .fruit, .flower, .bulb{
+	display: inline-block;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	padding-left: 3rem;
+	padding-right: 3rem;
+	border: solid;
+	border-color: #FFDAB9;
+}
+
+.list{
+	list-style: square;
+	list-style-position: : inside;
+}
+
+.first{
+	text-align: left;
+	margin-left: 1rem;
+}
+.first_p{
+	display: inline-block;
+	width: 75%;
+	text-align: left;
+	margin-left: 1rem;
+	padding-top: none;
+}
